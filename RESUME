@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mugesh P - Resume</title>
+</head>
+<body>
+
+  <h1>MUGESH P</h1>
+  <p>
+    📞 +91 6381158566 | ✉️ <a href="mailto:psmugesh8036@gmail.com">psmugesh8036@gmail.com</a><br>
+    📍 Perambalur, Tamil Nadu, India<br>
+    🔗 <a href="https://www.linkedin.com/in/mugesh-ps-30a4812b7" target="_blank">LinkedIn</a>
+  </p>
+
+  <hr>
+
+  <h2>Objective</h2>
+  <p>Seeking a challenging role in the biomedical or IT field where I can apply my technical skills, problem-solving abilities, and innovative mindset to contribute to organizational growth while continuously enhancing my expertise.</p>
+
+  <h2>Skills & Expertise</h2>
+  <ul>
+    <li><strong>Technical Skills:</strong> Python, C, Excel, HTML, CSS, Video Editing, Canva</li>
+    <li><strong>Biomedical Expertise:</strong> Handling Biomedical Equipment, Phonocardiogram Measurement, Radiology, Human Physiology</li>
+    <li><strong>Soft Skills:</strong> Leadership, Creativity, Communications</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <ul>
+    <li>Digital Thermometer Using Arduino & LM35</li>
+    <li>Water Level Indicator Using Operational Amplifier (IC741, IC555)</li>
+    <li>Phonocardiogram Measurement Using Circuit Diagram with Transistor</li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li><strong>BE (Biomedical Engineering)</strong> | Easwari Engineering College, Ramapuram, Chennai<br>Anna University | 2022 - 2026</li>
+    <li><strong>Higher Secondary Education</strong> | Govt. Higher Secondary School, Kolakanatham | 2021 - 2022</li>
+    <li><strong>Secondary School</strong> | Govt. High School, Periyammapalayam | 2019 - 2020</li>
+  </ul>
+
+  <h2>Internships</h2>
+  <ul>
+    <li>InTrainz for IoT | Online (April 2024)</li>
+    <li>KV Biomedical | Tambaram, Chennai (July 2024)</li>
+    <li>Expect Edge Medical Innovations | Tambaram, Chennai (Jan 2025)</li>
+  </ul>
+
+  <h2>Certifications & Courses</h2>
+  <ul>
+    <li>ChatGPT for Data Analytics</li>
+    <li>Business Analytics with Excel</li>
+    <li>Cisco Networking Basics</li>
+    <li>Biomedical Signal Processing - NPTEL (Jan 2024)</li>
+    <li>Maternal Infant Young Child Nutrition - NPTEL (July 2024)</li>
+  </ul>
+
+  <h2>Areas of Interest</h2>
+  <ul>
+    <li>Biomedical Instrumentation & Imaging</li>
+    <li>Radiology & Diagnostic Equipment</li>
+    <li>IT Solutions in Healthcare & Data Analytics</li>
+  </ul>
+
+</body>
+</html>

@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Mugesh P - Resume</title>
-</head>
-<body>
-
+<html>
   <h1>MUGESH P</h1>
   <p>
     📞 +91 6381158566 | ✉️ <a href="mailto:psmugesh8036@gmail.com">psmugesh8036@gmail.com</a><br>
     📍 Perambalur, Tamil Nadu, India<br>
-    🔗 <a href="https://www.linkedin.com/in/mugesh-ps-30a4812b7" target="_blank">LinkedIn</a>
+    🔗 <a href="https://www.linkedin.com/in/mugesh-p-30a4812b7/" >LinkedIn</a><br>
+    🔗 <a href="https://github.com/pmugesh" >Github</a><br>
+    🔗 <a href="https://leetcode.com/u/o3WcwCteVm/" >Leetcode</a>
   </p>
 
   <hr>
@@ -48,6 +44,8 @@
 
   <h2>Certifications & Courses</h2>
   <ul>
+    <li>Data Analytics</li>
+    <li>Mechine Learning</li>
     <li>ChatGPT for Data Analytics</li>
     <li>Business Analytics with Excel</li>
     <li>Cisco Networking Basics</li>
@@ -61,6 +59,9 @@
     <li>Radiology & Diagnostic Equipment</li>
     <li>IT Solutions in Healthcare & Data Analytics</li>
   </ul>
-
-</body>
+  <h2>Languages</h2>
+  <ul>
+    <li>Tamil</li>
+    <li>English</li>
+  </ul>
 </html>
